@@ -8,3 +8,7 @@
   "reward": 50000,
   "difficulty": "hard"
 }
+
+
+
+apktool b battlecats_decompiled -o battlecats_mod.apk
