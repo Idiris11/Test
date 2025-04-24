@@ -1,0 +1,14 @@
+{
+  "stage_id": 9999,
+  "name": "bahablast",
+  "enemies": [
+    { "id": "doge", "spawn_rate": 10 },
+    { "id": "Bore", "spawn_rate": 15 }
+  ],
+  "reward": 50000,
+  "difficulty": "hard"
+}
+
+
+
+apktool b battlecats_decompiled -o battlecats_mod.apk
